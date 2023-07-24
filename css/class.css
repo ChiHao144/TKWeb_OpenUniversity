@@ -33,6 +33,18 @@
     width: 80%;
     margin-left: 10%;
 }
-
+.foot{
+    padding: 55px;
+    background-color: #1d559f;
+    color: white;
+}
+.foot p{
+    line-height: 30px;
+}
+.foot-above{
+    padding: 50px;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 30px;
+}
 
 
